@@ -64,6 +64,7 @@ const Header = () => {
             >
               <MenuItem value={"USD"}>USD</MenuItem>
               <MenuItem value={"AUD"}>AUD</MenuItem>
+              <MenuItem value={"EUR"}>EUR</MenuItem>
             </Select>
           </Toolbar>
         </Container>
