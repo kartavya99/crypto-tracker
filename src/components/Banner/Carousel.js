@@ -13,13 +13,6 @@ const useStyles = makeStyles(() => ({
     alignItems: "center",
   },
   carouselItem: {
-    // display: "flex",
-    // flexDirection: "column",
-    // alignItems: "center",
-    // cursor: "pointer",
-    // textTransform: "uppercase",
-    // color: "white",
-
     display: "flex",
     flexDirection: "column",
     alignItems: "center",
